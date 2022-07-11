@@ -1,0 +1,11 @@
+Python Packages
+*****************
+1: pyautogui
+2: keyboard
+3: gTTS
+4: playsound
+5: pyaudio
+6: SpeechRecognition
+***********************
+To Auto Install These Run Build.bat
+*************************************
